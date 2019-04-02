@@ -10,6 +10,22 @@
     },
     {
       "height": 4000,
+      "compressed_path": "./photos/Potraits/DSC_0647.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Potraits/DSC_0647.placeholder.jpg",
+      "path": "./photos/Potraits/DSC_0647.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Potraits/DSC_0670.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Potraits/DSC_0670.placeholder.jpg",
+      "path": "./photos/Potraits/DSC_0670.jpg"
+    },
+    {
+      "height": 4000,
       "compressed_path": "./photos/Potraits/p.min.jpg",
       "width": 6000,
       "compressed": false,
@@ -17,8 +33,307 @@
       "path": "./photos/Potraits/p.jpg"
     }
   ],
-  "Nature": [],
+  "Nature": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0033.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0033.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0033.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0368.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0368.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0368.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0341.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0341.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0341.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0369.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0369.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0369.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0278.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0278.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0278.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0324.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0324.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0324.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0086.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0086.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0086.jpg"
+    },
+    {
+      "height": 1365,
+      "compressed_path": "./photos/Nature/26678521_1934934483200562_6144663707816849656_o.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/26678521_1934934483200562_6144663707816849656_o.placeholder.jpg",
+      "path": "./photos/Nature/26678521_1934934483200562_6144663707816849656_o.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0096.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0096.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0096.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0095.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0095.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0095.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0103.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0103.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0103.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_1036.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_1036.placeholder.jpg",
+      "path": "./photos/Nature/DSC_1036.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0364.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0364.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0364.jpg"
+    },
+    {
+      "height": 1365,
+      "compressed_path": "./photos/Nature/25790876_1910441932316484_1084601632465942790_o.min.jpg",
+      "width": 2048,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/25790876_1910441932316484_1084601632465942790_o.placeholder.jpg",
+      "path": "./photos/Nature/25790876_1910441932316484_1084601632465942790_o.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0375.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0375.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0375.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0376.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0376.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0376.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Nature/DSC_0363.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Nature/DSC_0363.placeholder.jpg",
+      "path": "./photos/Nature/DSC_0363.jpg"
+    }
+  ],
+  "Landscapes": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/CSC_0527.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/CSC_0527.placeholder.jpg",
+      "path": "./photos/Landscapes/CSC_0527.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0236.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0236.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0236.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/17.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/17.placeholder.jpg",
+      "path": "./photos/Landscapes/17.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0252.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0252.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0252.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0508.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0508.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0508.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0253.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0253.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0253.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/16.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/16.placeholder.jpg",
+      "path": "./photos/Landscapes/16.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/12.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/12.placeholder.jpg",
+      "path": "./photos/Landscapes/12.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0068.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0068.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0068.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0453.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0453.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0453.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0471.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0471.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0471.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/18.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/18.placeholder.jpg",
+      "path": "./photos/Landscapes/18.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/24.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/24.placeholder.jpg",
+      "path": "./photos/Landscapes/24.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/30.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/30.placeholder.jpg",
+      "path": "./photos/Landscapes/30.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0116.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0116.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0116.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/25.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/25.placeholder.jpg",
+      "path": "./photos/Landscapes/25.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0398.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0398.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0398.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Landscapes/DSC_0639.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Landscapes/DSC_0639.placeholder.jpg",
+      "path": "./photos/Landscapes/DSC_0639.jpg"
+    }
+  ],
   "Travel Photography": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/k.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/k.placeholder.jpg",
+      "path": "./photos/Travel Photography/k.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0905..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0905..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0905..jpg"
+    },
     {
       "height": 4000,
       "compressed_path": "./photos/Travel Photography/j.min.jpg",
@@ -26,6 +341,14 @@
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/j.placeholder.jpg",
       "path": "./photos/Travel Photography/j.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0070..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0070..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0070..jpg"
     },
     {
       "height": 4000,
@@ -45,11 +368,75 @@
     },
     {
       "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0368..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0368..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0368..jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0050.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0050.placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0050.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/34.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/34.placeholder.jpg",
+      "path": "./photos/Travel Photography/34.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0203..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0203..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0203..jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_1015..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_1015..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_1015..jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/33.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/33.placeholder.jpg",
+      "path": "./photos/Travel Photography/33.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_0865..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0865..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_0865..jpg"
+    },
+    {
+      "height": 4000,
       "compressed_path": "./photos/Travel Photography/dd.min.jpg",
       "width": 6000,
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/dd.placeholder.jpg",
       "path": "./photos/Travel Photography/dd.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Travel Photography/DSC_1064..min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_1064..placeholder.jpg",
+      "path": "./photos/Travel Photography/DSC_1064..jpg"
     },
     {
       "height": 4000,

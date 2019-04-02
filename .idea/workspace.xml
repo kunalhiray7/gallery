@@ -2,115 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89592ef4-e4eb-4579-8c05-30c09a7146bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/photos/Potraits/gg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Potraits/p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/dd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/j.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/l.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/q.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos/Travel Photography/r.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Desktop.min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Desktop.placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Desktop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Frame.min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Frame.placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/Frame.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/curriculum.min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/curriculum.placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/curriculum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/glossary.min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/glossary.placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/glossary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/photoframe.min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/photoframe.placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Mockups/photoframe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0138.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0138.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0219.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0219.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0860.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0860.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0860.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0989(1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0989(1).min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF0989(1).placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1252.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1252.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1502.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1502.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1502.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1802.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1802.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1802.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1894.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1894.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF1894.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF2242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF2242.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF2242.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF3621.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF3621.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF3621.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4244.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4244.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4538.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4538.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF4538.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5636.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5636.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5636.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5784.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5784.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF5784.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7355.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7355.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7355.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7399.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7399.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF7399.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8053.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8053.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8091.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8091.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8103.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8103.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8196.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8196.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8846.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8846.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8846.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8958.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8958.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8958.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8993.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8993.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/DSCF8993.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_0072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_0072.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_0072.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_7575.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_7575.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_7575.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9863.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9863.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9863.placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9966.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9966.min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/Travel Photography/IMG_9966.placeholder.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ga.html">
           <provider selected="true" editor-type-id="text-editor" />
@@ -128,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="405">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -137,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/gallery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5157">
+            <state relative-caret-position="315">
               <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
             </state>
           </provider>
@@ -151,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/transition.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+            <state relative-caret-position="585">
+              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -160,11 +54,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="855">
+              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1502">
+              <caret line="442" column="30" selection-start-line="442" selection-start-column="30" selection-end-line="442" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.command">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -183,8 +114,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -196,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +152,12 @@
               <item name="gallery" type="b2602c69:ProjectViewProjectNode" />
               <item name="gallery" type="462c0819:PsiDirectoryNode" />
               <item name="photos" type="462c0819:PsiDirectoryNode" />
+              <item name="Potraits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="photos" type="462c0819:PsiDirectoryNode" />
               <item name="Travel Photography" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -225,6 +165,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,29 +243,24 @@
       <option name="presentableId" value="Default" />
       <updated>1553858556955</updated>
       <workItem from="1553858558344" duration="791000" />
+      <workItem from="1554226214033" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="791000" />
+    <option name="totallyTimeSpent" value="1232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Floobits" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -332,43 +268,80 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Floobits" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3299363" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.min.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.min.jpg" />
+    <entry file="file://$PROJECT_DIR$/photos/Travel Photography/20160406-20160505DSCF2086.jpg" />
     <entry file="file://$PROJECT_DIR$/photos/Travel Photography/dd.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/zoom.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ga.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="405">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5157">
+        <state relative-caret-position="315">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
         </state>
       </provider>
@@ -376,13 +349,10 @@
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/zoom.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/transition.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        <state relative-caret-position="585">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -391,8 +361,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="855">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.command">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1502">
+          <caret line="442" column="30" selection-start-line="442" selection-start-column="30" selection-end-line="442" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
